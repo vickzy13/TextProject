@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Yor are a bad boy.
 This is the end.
-=======
 You are a bad boy.
 I have got something in my mind.
->>>>>>> master
